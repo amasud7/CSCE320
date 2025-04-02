@@ -1,0 +1,52 @@
+s,Type of Exercise,Duration of Exercise,Intensity,Heartrate,Time of Day of Exercise,Sleep Quality (out of 10),Sleep Time
+2/7,Arms and Shoulders,2 hr 0 min,Moderate,150,7:00 PM,6.5,7 hr 45 min
+2/8,Legs,1 hr 15 min,Intense,184,1:00 PM,8,9 hrs 0 min
+2/9,Running,0 hr 25 min,Intense,190,6:00 PM,7,7 hrs 0 min
+2/10,Rest,N/A,,,N/A,7,7 hrs 15 min
+2/11,Chest and Back,1 hr 30 min,Moderate,143,5:00 PM,5.75,7 hr 20 min
+2/12,Climbing,1 hr 0 min,Easy,92,5:00 PM,6.25,9 hr 1 min
+2/13,Arms and Shoulders,1 hr 30 min,Moderate,156,9:00 PM,6.75,7 hr 14 min
+2/14,Running,0 hr 24 min,Moderate,152,10:00 AM,8,7 hr 30 min
+2/15,Legs,1 hr 20 min,Intense,172,1:00 PM,8,8 hr 30 min
+2/16,Chest and Back,1 hr 30 min,Moderate,143,4:00 PM,6.5,6 hr 19 min
+2/17,Climbing,1 hr 0 min,Easy,112,3:00 PM,5,8 hr 32 min
+2/18,Arms and Shoulders,1 hr 0 min,Moderate,158,9:00 PM,6,6 hr 30 min
+2/19,Running,0 hr 24 min,Intense,192,2:00 PM,7,5 hr 0 min
+2/20,Rest,N/A,,,N/A,8,8hr 0 min
+2/21,Legs,2 hr 0 min,Intense,183,6:00 PM,8,9 hr 30 min
+2/22,rock climbing,1 hr 0 min,Easy,97,4:00 PM,5.5,9 hr 0 min
+2/23,Chest and Back,1 hr 0 min,Moderate,148,2:00 PM,5,6 hr 0 min
+2/24,rock climbing,1 hr 0 min,Easy,86,12:00 PM,6,8 hr 55 min
+2/25,Arms and Shoulders,2 hr 0 min,Moderate,156,6:00 PM,5.25,5 hr 57 min
+2/26,Running,0 hr 23 min,Moderate,149,3:00 PM,7.5,8 hr 52 min
+2/27,Climbing,1 hr 15 min,Easy,104,5:00 PM,6,6 hr 44 min
+2/28,Chest and Back,2 hr 0 min,Moderate,150,6:00 PM,6.5,10 hr 52 min
+3/1,Legs,1 hr 30 min,Intense,176,11:00 AM,8,10 hr 43 min
+3/2,Rest,N/A,,,N/A,7.5,5 hr 3 min
+3/3,Arms and Shoulders,1 hr 30 min,Intense,183,2:00 PM,6.5,8 hr 22 min
+3/4,Climbing,1 hr 0 min,Easy,111,6:00 PM,5.5,6 hr 50 min
+3/5,Chest and Back,1 hr 0 min,Moderate,139,3:00 PM,6,7 hr 50 min
+3/6,Climbing,1 hr 0 min,Easy,113,5:00 PM,5.5,7 hr 50 min
+3/7,Running, 0 hr 15 min,Moderate,154,6:00 PM,8,10 hr 46 min
+3/8,Chest and Back,1 hr 0 min,Moderate,148,11:00 AM,8,10 hr 30 min
+3/9,climbing,3 hr 0 min,Intense,190,3:00 PM,6.5,9 hr 30 min
+3/10,rest,N/A,,,,8,9 hr 15 min
+3/11,Chest and Back,1 hr 0 min,Easy,92,11:00 AM,6,9 hr 10 min
+3/12,Running,0 hr 20 min,Moderate,164,6:00 PM,7.5,5 hr 10 min
+3/13,Chest and Back,1 hr,Easy,135,11:00 AM,8,7 hr 20 min
+3/14,Rest,N/A,,,,7.5,8 hr 20 min
+3/16,Legs,1 hr 30 min,Intense,180,6:00 PM,8,7 hr 0 min
+3/17,Climbing,1 hr 0 min,Easy,90,3:00 PM,6.5,7 hr 30 min
+3/18,Arms and Shoulders,1 hr 0 min,Moderate,130,6:00 PM,7.5,5 hr 50 min
+3/19,Climbing,1 hr 0 min,Easy,87,3:00 PM,5,7 hr 30 min
+3/20,Chest and Back,1 hr 30 min,Moderate,127,6:00 PM,6,6 hr 10 min
+3/21,Rest,N/A,,,,7,9 hr 0 min
+3/22,Legs,1 hr 30 min,Intense,176,2:00 PM,8,5 hr 0 min
+3/23,Climbing,1 hr 0 min,Moderate,161,6:00 PM,6.5,7 hr 40 min
+3/24,Chest and Back,1 hr 30 min,Intense,185,2:00 PM,7.5,6 hr 40 min
+3/25,Arms and Shoulders,1 hr 0 min,Moderate,150,6:00 PM,5.5,7 hr 10 min
+3/26,Climbing,1 hr 0 min,Easy,100,4:00 PM,6.5,5 hr 30 min
+3/27,Chest and Back,1 hr 30 min,Moderate,160,6:00 PM,5.5,7 hr 10 min
+3/28,Climbing,1 hr 0 min,Easy,115,3:00 PM,6,7 hr 20 min
+3/30,Climbing,1 hr 0 min,Easy,89,3:00 PM,6,8 hr 0 min
+3/31,Climbing,1 hr 0 min,Easy,134,3:00 PM,7,7 hr 30 min
